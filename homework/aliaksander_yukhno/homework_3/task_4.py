@@ -1,0 +1,6 @@
+print("Vvedite katet a =")
+a = int(input())
+print("Vvedite katet b =")
+b = int(input())
+print("gipotenyza", (a ** 2 + b ** 2) ** (1 / 2))
+print("ploschad", (a * b) / 2)

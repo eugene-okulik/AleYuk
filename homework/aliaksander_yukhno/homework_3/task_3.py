@@ -1,0 +1,6 @@
+print("Vvedite x =")
+x = int(input())
+print("Vvedite y =")
+y = int(input())
+print("sr_arifmet", (x + y) / 2)
+print("sr_geometr", (x * y) ** (1 / 2))

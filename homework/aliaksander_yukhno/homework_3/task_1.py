@@ -1,0 +1,7 @@
+print("Vvedite a =")
+a = int(input())
+print("Vvedite b =")
+b = int(input())
+print("add =", a + b)
+print("div =", a - b)
+print("mult =", a * b)
