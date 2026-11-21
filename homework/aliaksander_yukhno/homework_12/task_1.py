@@ -91,4 +91,4 @@ print("Сортировка по параметру:")
 bouquet_of_flowers.sort_by_parameter("lifetime")
 for flower in bouquet_of_flowers.buket:
     print(f"\tцветок: {flower.flower_name}, {flower.lifetime}")
-print(f"Поиск по параметру: {bouquet_of_flowers.find_by("color", "розовая")}")
+print(f'Поиск по параметру: {bouquet_of_flowers.find_by("color", "розовая")}')
